@@ -2,7 +2,7 @@
 # react-native-wifi
 
 ## About
-This is an attempt on my part to bring support for the iOS Platform. Please have patience. Any recommendations are welcome!wq
+This is an attempt on my part to bring support for the iOS Platform. Please have patience. Any recommendations are welcome!
 
 ## Getting started
 
