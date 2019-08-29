@@ -1,6 +1,9 @@
 
 # react-native-wifi
 
+## About
+This is an attempt on my part to bring support for the iOS Platform. Please have patience. Any recommendations are welcome!wq
+
 ## Getting started
 
 `$ npm install react-native-wifi --save`
